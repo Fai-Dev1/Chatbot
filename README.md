@@ -14,6 +14,6 @@ A basic interactive chatbot built using **Streamlit** and powered by **Google Ge
    Install Dependencies:
    pip install -r requirements.txt
 
-Run the Chatbot:
-Launch the Streamlit app locally with:
-streamlit run chatbot.py
+   Run the Chatbot:
+   streamlit run chatbot.py
+   
