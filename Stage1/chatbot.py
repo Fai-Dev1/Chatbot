@@ -49,4 +49,5 @@ if prompt := st.chat_input("What is up?"):
             
         except Exception as e:
             st.error(f"حدث خطأ أثناء الاتصال: {e}")
+
             
